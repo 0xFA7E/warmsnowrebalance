@@ -1,4 +1,4 @@
-# warmsnowrebalance
+# Warm Snow HP Rebalance Mod
 Rebalancing Mod for Warm Snow
 
 This mod adjusts the later difficulties(notably snowstorm and blizzrad(sic) ) to more sane values for HP. Blizzard is now a slightly beefed up heavy snow but the
