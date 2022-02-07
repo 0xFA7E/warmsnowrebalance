@@ -9,6 +9,8 @@ slightly inbetween the two. Chosen values were because it sounded good, and feed
 # Installing EZ Mode
 
 If you want minimal hassle installing the mod, simply copy the Assembly-CSharp.dll file into the game's managed data directory
+
+
 c:\\(path to your SteamLibrary)\steamapps\common\WarmSnow\WarmSnow_Data\Managed\
 
 Overwrite the existing file there or rename the old version if you wish to revert(reverifying the game files in steam will also revert the mod changes). 
