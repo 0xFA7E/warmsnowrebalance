@@ -9,7 +9,7 @@ slightly inbetween the two. Chosen values were because it sounded good, and feed
 # Installing EZ Mode
 
 If you want minimal hassle installing the mod, simply copy the Assembly-CSharp.dll file into the game's managed data directory
-c:\(path to your SteamLibrary)\steamapps\common\WarmSnow\WarmSnow_Data\Managed\
+c:\\(path to your SteamLibrary)\steamapps\common\WarmSnow\WarmSnow_Data\Managed\
 
 Overwrite the existing file there or rename the old version if you wish to revert(reverifying the game files in steam will also revert the mod changes). 
 Note that this method *WILL* break upon any sort of game update whatsoever. 
@@ -22,4 +22,4 @@ https://melonwiki.xyz/#/?id=automated-installation
 Once melonloader says it has succeeded, open up the game once so that melonloader can create the necessary folders. You will now see a Mods folder in the WarmSnow game folder
 Copy the WarmSnowHPRebalance.dll file to this folder and then launch the game and enjoy!
 
-As a reminder the folder location would be c:\(path to your SteamLibrary)\steamapps\common\WarmSnow\Mods\
+As a reminder the folder location would be c:\\(path to your SteamLibrary)\steamapps\common\WarmSnow\Mods\
