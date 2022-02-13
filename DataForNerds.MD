@@ -3,96 +3,66 @@ The following is some of the numerical scalings the game uses and what my mod ac
 # Original
 
 HP difficulty modifiers(multiplied by enemy base HP
-{
-	Fine Snow
-	{
-		Prologue 1.1f,
-		Chapter 1 1.1f,
-		Chapter 2 1.05f,
-		Chapter 3 1.05f,
-		Chapter 4 1.1f,
-		? 1.05f
-	},
-	Medium Snow
-	{
-		Prologue 1.3f,
-		Chapter 1 1.7f,
-		Chapter 2 2f,
-		Chapter 3 2.3f,
-		Chapter 4 3.3f,
-		? 3f
-	},
-	Heavy Snow
-	{
-		Prologue 2.2f,
-		Chapter 1 3f,
-		Chapter 2 5f,
-		Chapter 3 7f,
-		Chapter 4 10f,
-		? 8.3f
-	},
-	Snowstorm
-	{
-		Prologue 3f,
-		Chapter 1 5.5f,
-		Chapter 2 12f,
-		Chapter 3 14f,
-		Chapter 4 18f,
-		? 15f
-	},
-	Blizzrad
-	{
-		Prologue 3.5f,
-		Chapter 1 7f,
-		Chapter 2 16f,
-		Chapter 3 26f,
-		Chapter 4 50f,
-		? 36.5f
-	}
-};
+
+| Difficulty | Stage | Modifier |
+| --- | --- | --- |
+| Fine Snow | Prologue | 1.1 |
+|---| Chapter 1 | 1.1|
+|---| Chapter 2 | 1.05|
+|---| Chapter 3 | 1.05|
+|---| Chapter 4 | 1.1|
+|---| ? | 1.05|
+| Medium Snow | Prologue | 1.3 |
+|---| Chapter 1 | 1.7|
+|---| Chapter 2 | 2|
+|---| Chapter 3 | 2.3|
+|---| Chapter 4 | 3.3|
+|---| ? | 3|
+| Heavy Snow | Prologue | 2.2 |
+|---| Chapter 1 | 3|
+|---| Chapter 2 | 5|
+|---| Chapter 3 | 7|
+|---| Chapter 4 | 10|
+|---| ? | 8.3|
+| Snow Storm | Prologue | 3 |
+|---| Chapter 1 | 5.5|
+|---| Chapter 2 | 12|
+|---| Chapter 3 | 14|
+|---| Chapter 4 | 18|
+|---| ? | 15|
+| Blizzrad| Prologue | 3.5 |
+|---| Chapter 1 | 7|
+|---| Chapter 2 | 16|
+|---| Chapter 3 | 26|
+|---| Chapter 4 | 50|
+|---| ? | 36.5|
+
 
 # HP Rebalance Mod
-
-{
-	Heavy Snow
-	{
-		Prologue 1.8f,
-		Chapter 1 2.3f,
-		Chapter 2 2.4f,
-		Chapter 3 3.8f,
-		Chapter 4 5f,
-		? 4.8f
-	},
-	Snowstorm
-	{
-		Prologue 2.3f,
-		Chapter 1 2.5f,
-		Chapter 2 3f,
-		Chapter 3 5f,
-		Chapter 4 8f,
-		? 6.3f
-	},
-	Blizzrad
-	{
-		Prologue 2.5f,
-		Chapter 1 3.3f,
-		Chapter 2 5.5f,
-		Chapter 3 7.5f,
-		Chapter 4 8.5f,
-		? 7.3f
-	}
-};
+| Heavy Snow | Prologue | 1.8 |
+|---| Chapter 1 | 2.3|
+|---| Chapter 2 | 2.4|
+|---| Chapter 3 | 3.8|
+|---| Chapter 4 | 5|
+|---| ? | 4.8|
+| Snow Storm | Prologue | 2.3 |
+|---| Chapter 1 | 2.5|
+|---| Chapter 2 | 3|
+|---| Chapter 3 | 5|
+|---| Chapter 4 | 8|
+|---| ? | 6.3|
+| Blizzrad | Prologue | 2.5 |
+|---| Chapter 1 | 3.3|
+|---| Chapter 2 | 5.5|
+|---| Chapter 3 | 7.5|
+|---| Chapter 4 | 8.5|
+|---| ? | 7.3|
 
 # Vampire Survivors Mode
 Same as HP rebalance except for blizzrad
-{
-	Blizzrad
-	{
-		Prologue 1.5f,
-		Chapter 1 2.0f,
-		Chapter 2 2.2f,
-		Chapter 3 3.5f,
-		Chapter 4 4.5f,
-		? 3.8f
-	}
-};
+| Blizzrad | Prologue | 1.5 |
+|---| Chapter 1 | 2|
+|---| Chapter 2 | 2.2|
+|---| Chapter 3 | 3.5|
+|---| Chapter 4 | 4.5|
+|---| ? | 3.8|
