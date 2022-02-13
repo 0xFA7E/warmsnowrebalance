@@ -3,7 +3,7 @@ Rebalancing Mod for Warm Snow
 
 This mod adjusts the later difficulties(notably snowstorm and blizzrad(sic) ) to more sane values for HP. Blizzard is now a slightly beefed up heavy snow but the
 later stage enemies are significantly toned down so HP bloat is a tad closer to a linear increase instead of the massive bump in vanilla with snowstorm difficulty being
-slightly inbetween the two. Chosen values were because it sounded good, and feedback on finetuning is highly welcomed. Other rebalancing effects/mods may come if interest is raised. 
+slightly inbetween the two. Chosen values were because it sounded good, and feedback on finetuning is highly welcomed. Other rebalancing effects/mods may come if interest is raised. A detailed table of original values as well as changes can be found on the DataForNerds.md page
 
 # Installing with Melon Loader
 
