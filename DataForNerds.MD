@@ -39,6 +39,8 @@ HP difficulty modifiers(multiplied by enemy base HP
 
 
 # HP Rebalance Mod
+| Difficulty | Stage | Modifier |
+| --- | --- | --- |
 | Heavy Snow | Prologue | 1.8 |
 |---| Chapter 1 | 2.3|
 |---| Chapter 2 | 2.4|
@@ -60,6 +62,8 @@ HP difficulty modifiers(multiplied by enemy base HP
 
 # Vampire Survivors Mode
 Same as HP rebalance except for blizzrad
+| Difficulty | Stage | Modifier |
+| --- | --- | --- |
 | Blizzrad | Prologue | 1.5 |
 |---| Chapter 1 | 2|
 |---| Chapter 2 | 2.2|
